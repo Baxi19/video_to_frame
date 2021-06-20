@@ -1,2 +1,2 @@
 # Video to Frame :alien:
-From video to images 🎥
+Example using Python of how to convert a video into a series of images. 🎥
